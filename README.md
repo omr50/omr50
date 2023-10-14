@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, Kafka, Operating Systems**
 
-- 👨‍💻 All of my projects are available at [omrabdelhamed.netlify.app](omrabdelhamed.netlify.app)
+- 👨‍💻 All of my projects are available at [omrabdelhamed.netlify.app](http://omrabdelhamed.netlify.app)
 
 - 📄 Know about my experiences [https://flowcv.com/resume/wt4n69sqrp](https://flowcv.com/resume/wt4n69sqrp)
 
