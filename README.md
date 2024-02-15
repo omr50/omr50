@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **Code Racer**
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, Kafka, Operating Systems**
-
-- 👨‍💻 All of my projects are available at [omrabdelhamed.netlify.app](omrabdelhamed.netlify.app)
-
-- 📄 Know about my experiences [https://flowcv.com/resume/wt4n69sqrp](https://flowcv.com/resume/wt4n69sqrp)
+- 🌱 I’m currently learning **STM32 Microcontroller, 2D Game Programming C++/Raylib, Operating Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
