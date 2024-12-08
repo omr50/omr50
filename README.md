@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Code Racer**
 
-- 🌱 I’m currently learning **STM32 Microcontroller, 2D Game Programming C++/Raylib, Operating Systems**
+- 🌱 I’m currently learning **OpenGL, Operating Systems, Non blocking servers, Libpcap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
