@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omr</h1>
 <h3 align="center">A software developer from NYC</h3>
 
-- 🔭 I’m currently working on **OpenGL**
+- 🔭 I’m currently working on **OpenGL and C++**
 
 - 🌱 I’m currently learning **OpenGL, Games, Systems Programming, TCP/UDP networking, Wireshark clone / Libpcap**
 
